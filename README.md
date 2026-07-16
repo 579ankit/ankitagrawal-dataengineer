@@ -9,17 +9,17 @@
 <img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 
 ###
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m a Senior Data Engineer working at **Egen Data Pvt. Ltd.**
   
 - 🌱 I’m currently learning **Spring Boot, Spring AI**
 
 - 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
 
-- 📫 How to reach me **abhinendrayadav3@gmail.com**
+- 📫 How to reach me **jindalankit321@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://linkedin.com/in/abhinendrasingh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinendrasingh3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankitagrawal-data-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinendrasingh3" height="30" width="40" /></a>
 <a href="https://instagram.com/_jodxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avvhii" height="30" width="40" /></a>
 </p> 
 
