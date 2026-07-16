@@ -64,6 +64,19 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+### 🏅 Certifications
+
+- ☁️ **Google Cloud Certified - Professional Cloud Architect**
+- ☁️ **Google Cloud Certified - Professional Data Engineer**
+- ☁️ **Google Cloud Certified - Professional Cloud Developer**
+- ☁️ **Google Cloud Certified - Associate Cloud Engineer**
+- ☁️ **Google Cloud Certified - Associate Data Practitioner**
+- 🔷 **DP-203 Microsoft Azure Data Engineer Associate**
+- 📊 **PL-300 Power BI Data Analyst Associate**
+- ❄️ **Snowflake SnowPro Core Certified**
+- 🍃 **MongoDB SI Associate**
+- 🔷 **DP-900 Microsoft Azure Data Fundamentals**
+
 ### 💬 Good topics to discuss with me
 
 - 🚀 Data engineering with Spark, PySpark, Databricks, and Airflow
@@ -77,7 +90,7 @@
 
 ### 🧩 LeetCode practice
 
-- 🧠 I maintain a dedicated **LeetCode** repository for consistent problem solving.
+- 🧠 I maintain a dedicated **[LeetCode](https://github.com/ankitagrawal-dataengineer/leetcode)** repository for consistent problem solving.
 - 🧮 In the **DSA** folder, I solve data structures and algorithms problems using clean, readable solutions.
 - 🗄️ In the **SQL** folder, I solve LeetCode database questions focused on joins, aggregations, ranking, filtering, and analytical queries.
-- 🎯 This practice helps me stay sharp with problem solving, SQL fundamentals, and interview-style coding patterns.
+- 🎯 This practice helps me stay sharp with problem-solving, SQL fundamentals, and interview-style coding patterns.
