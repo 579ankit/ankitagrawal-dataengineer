@@ -75,9 +75,9 @@
 - 🏥 JDBC ingestion, API/HL7/FHIR mapping analysis, and bronze/silver table design
 - 🔎 Talend integrations, ELK monitoring, Elasticsearch indexing, and production troubleshooting
 
-### 📌 GitHub profile ideas to add next
+### 🧩 LeetCode practice
 
-- 📌 Pin 3-6 repositories that show Spark, PySpark, Airflow, Databricks, BigQuery, SQL, or data quality work.
-- 🧾 Add a short project section for one strong project: problem, tech stack, and what you built.
-- 📈 Add GitHub stats only after confirming your exact GitHub username, so the cards point to your account.
-- 🐍 Add the contribution animation only after setting up the GitHub Action in your profile repository.
+- 🧠 I maintain a dedicated **LeetCode** repository for consistent problem solving.
+- 🧮 In the **DSA** folder, I solve data structures and algorithms problems using clean, readable solutions.
+- 🗄️ In the **SQL** folder, I solve LeetCode database questions focused on joins, aggregations, ranking, filtering, and analytical queries.
+- 🎯 This practice helps me stay sharp with problem solving, SQL fundamentals, and interview-style coding patterns.
