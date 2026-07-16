@@ -1,38 +1,41 @@
-<h1 align="center">Hi, I'm Ankit Agrawal</h1>
+<h1 align="center">Hi 👋, I'm Ankit Agrawal</h1>
 <h3 align="center">Senior Data Engineer | Spark | Databricks | Airflow | Azure | GCP | Python | SQL</h3>
 
 <p align="center">
-  <a href="mailto:jindalankit321@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/ankitagrawal-data-engineer/">LinkedIn</a> |
-  <a href="https://instagram.com/_jodxd/">Instagram</a>
+  <a href="mailto:jindalankit321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ankitagrawal-data-engineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Coding animation" />
 
-### About me
+### 🚀 About me
 
-- I work as a **Senior Data Engineer at Egen Data Pvt. Ltd.**
-- I have **5+ years of experience** building data pipelines, ETL/ELT workflows, and analytics-ready datasets.
-- My core stack includes **Spark, PySpark, Databricks, Airflow, Python, SQL, BigQuery, Snowflake, Azure, and GCP**.
-- I work with **Azure Data Factory, Azure Synapse Analytics, Google Cloud Dataflow, Cloud Composer, Data Lake, and Data Warehousing**.
-- I also have hands-on experience with **Java, JavaScript, Node.js, Express.js, MongoDB, PostgreSQL, Redis, Docker, Git, and GitLab**.
-- I am currently learning **Spring Boot** and **Spring AI**.
-- I enjoy building reliable, traceable, and maintainable data solutions from source systems to analytics.
+- 🔭 I work as a **Senior Data Engineer at Egen Data Pvt. Ltd.**
+- 💼 I have **5+ years of experience** building data pipelines, ETL/ELT workflows, and analytics-ready datasets.
+- 🧰 My core stack includes **Spark, PySpark, Databricks, Airflow, Python, SQL, BigQuery, Snowflake, Azure, and GCP**.
+- ☁️ I work with **Azure Data Factory, Azure Synapse Analytics, Google Cloud Dataflow, Cloud Composer, Data Lake, and Data Warehousing**.
+- 🛠️ I also have hands-on experience with **Java, JavaScript, Node.js, Express.js, MongoDB, PostgreSQL, Redis, Docker, Git, and GitLab**.
+- 🌱 I am currently learning **Spring Boot** and **Spring AI**.
+- 🎯 I enjoy building reliable, traceable, and maintainable data solutions from source systems to analytics.
 
-### Skills
+### 🧠 Skills
 
-- **Data Engineering:** ETL/ELT, data pipelines, batch processing, streaming workflows, data lake, data warehousing
-- **Big Data:** Spark, PySpark, Databricks, Airflow
-- **Cloud:** Azure, GCP, Azure Data Factory, Azure Synapse Analytics, BigQuery, Google Cloud Dataflow, Cloud Composer
-- **Languages:** Python, SQL, Java, JavaScript
-- **Databases:** BigQuery, Snowflake, MongoDB, PostgreSQL, Redis, Azure SQL Database
-- **Backend:** Node.js, Express.js, Spring Boot
-- **Data Practices:** data modeling, data quality, validation, reconciliation, metadata controls, CI/CD
-- **Tools:** Docker, Git, GitLab, GitHub workflows
-- **Frontend:** HTML, CSS, React
-- **Currently learning:** Spring AI
+- ⚙️ **Data Engineering:** ETL/ELT, data pipelines, batch processing, streaming workflows, data lake, data warehousing
+- 🔥 **Big Data:** Spark, PySpark, Databricks, Airflow
+- ☁️ **Cloud:** Azure, GCP, Azure Data Factory, Azure Synapse Analytics, BigQuery, Google Cloud Dataflow, Cloud Composer
+- 💻 **Languages:** Python, SQL, Java, JavaScript
+- 🗄️ **Databases:** BigQuery, Snowflake, MongoDB, PostgreSQL, Redis, Azure SQL Database
+- 🧩 **Backend:** Node.js, Express.js, Spring Boot
+- ✅ **Data Practices:** data modeling, data quality, validation, reconciliation, metadata controls, CI/CD
+- 🛠️ **Tools:** Docker, Git, GitLab, GitHub workflows
+- 🎨 **Frontend:** HTML, CSS, React
+- 🌱 **Currently learning:** Spring AI
 
-### Tech stack
+### 🛠️ Tech stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -70,18 +73,18 @@
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="42" height="42"/></a>
 </p>
 
-### Good topics to discuss with me
+### 💬 Good topics to discuss with me
 
-- Data engineering with Spark, PySpark, Databricks, and Airflow
-- ETL/ELT pipeline design across Azure and GCP
-- BigQuery, Snowflake, SQL optimization, and data warehousing
-- Data modeling, data quality checks, validation, and reconciliation
-- Backend development with Java, JavaScript, Node.js, and Express.js
-- Learning Spring Boot and Spring AI
+- 🚀 Data engineering with Spark, PySpark, Databricks, and Airflow
+- 🔄 ETL/ELT pipeline design across Azure and GCP
+- 📊 BigQuery, Snowflake, SQL optimization, and data warehousing
+- ✅ Data modeling, data quality checks, validation, and reconciliation
+- 🧩 Backend development with Java, JavaScript, Node.js, and Express.js
+- 🌱 Learning Spring Boot and Spring AI
 
-### GitHub profile ideas to add next
+### 📌 GitHub profile ideas to add next
 
-- Pin 3-6 repositories that show Spark, PySpark, Airflow, Databricks, BigQuery, SQL, or backend API work.
-- Add a short project section for one strong project: problem, tech stack, and what you built.
-- Add GitHub stats only after confirming your exact GitHub username, so the cards point to your account.
-- Add the contribution animation only after setting up the GitHub Action in your profile repository.
+- 📌 Pin 3-6 repositories that show Spark, PySpark, Airflow, Databricks, BigQuery, SQL, or backend API work.
+- 🧾 Add a short project section for one strong project: problem, tech stack, and what you built.
+- 📈 Add GitHub stats only after confirming your exact GitHub username, so the cards point to your account.
+- 🐍 Add the contribution animation only after setting up the GitHub Action in your profile repository.
